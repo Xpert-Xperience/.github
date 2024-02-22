@@ -15,28 +15,30 @@ Buscamos ser líderes reconhecidos no cenário da tecnologia, estabelecendo padr
 - **Trabalho em Equipe:** Valorizamos a colaboração e reconhecemos a importância do trabalho em equipe para alcançar nossos objetivos.
 - **Inclusão:** Promovemos um ambiente inclusivo onde todas as pessoas são valorizadas e respeitadas.
 
-
 ## 👥 Membros
 
-<div style="display: flex; justify-content: space-round ; flex-direction: row; ">
-    <div style="text-align: center;">
-        <img src="rep\images\erick.jpeg" alt="João Silva" style="border-radius: 50%; width: 100px; height: 100px;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; ">
+    <div style="width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin: 0 10px;">
+        <img src="https://github.com/Xpert-Xperience/.github/blob/main/images/erick.jpeg" alt="João Silva" style="border-radius: 50%; width: 100px; height: 100px;">
         <p>João Silva</p>
     </div>
-    <div style="text-align: center;">
-        <img src="rep\images\erick.jpeg" alt="Maria Santos" style="border-radius: 50%; width: 100px; height: 100px;">
+    <div style="width: 100px;   height: 100px;   border-radius: 50%;   margin: 0 10px;">
+        <img src="https://github.com/Xpert-Xperience/.github/blob/main/images/erick.jpeg" alt="Maria Santos" style="border-radius: 50%; width: 100px; height: 100px;">
         <p>Maria Santos</p>
     </div>
-    <div style="text-align: center;">
-        <img src="rep\images\erick.jpeg" alt="Pedro Oliveira" style="border-radius: 50%; width: 100px; height: 100px;">
+    <div style="width: 100px;   height: 100px;   border-radius: 50%;   margin: 0 10px;">
+        <img src="https://github.com/Xpert-Xperience/.github/blob/main/images/erick.jpeg" alt="Pedro Oliveira" style="border-radius: 50%; width: 100px; height: 100px;">
         <p>Pedro Oliveira</p>
     </div>
-    <div style="text-align: center;">
-        <img src="rep\images\erick.jpeg" alt="Ana Costa" style="border-radius: 50%; width: 100px; height: 100px;">
+    <div style="width: 100px;   height: 100px;   border-radius: 50%;   margin: 0 10px;">
+        <img src="https://github.com/Xpert-Xperience/.github/blob/main/images/erick.jpeg" alt="Ana Costa" style="border-radius: 50%; width: 100px; height: 100px;">
         <p>Ana Costa</p>
     </div>
-    <div style="text-align: center;">
-        <img src="rep\images\erick.jpeg" alt="Carlos Almeida" style="border-radius: 50%; width: 100px; height: 100px;">
+    <div style="width: 100px;   height: 100px;   border-radius: 50%;   margin: 0 10px;">
+        <img src="https://github.com/Xpert-Xperience/.github/blob/main/images/erick.jpeg" alt="Carlos Almeida" style="border-radius: 50%; width: 100px; height: 100px;">
         <p>Carlos Almeida</p>
     </div>
 </div>
