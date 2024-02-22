@@ -20,23 +20,23 @@ Buscamos ser líderes reconhecidos no cenário da tecnologia, estabelecendo padr
 
 <div style="display: flex; justify-content: space-round ; flex-direction: row; ">
     <div style="text-align: center;">
-        <img src="link_para_a_foto_1" alt="João Silva" style="border-radius: 50%; width: 100px; height: 100px;">
+        <img src="rep\images\erick.jpeg" alt="João Silva" style="border-radius: 50%; width: 100px; height: 100px;">
         <p>João Silva</p>
     </div>
     <div style="text-align: center;">
-        <img src="link_para_a_foto_2" alt="Maria Santos" style="border-radius: 50%; width: 100px; height: 100px;">
+        <img src="rep\images\erick.jpeg" alt="Maria Santos" style="border-radius: 50%; width: 100px; height: 100px;">
         <p>Maria Santos</p>
     </div>
     <div style="text-align: center;">
-        <img src="link_para_a_foto_3" alt="Pedro Oliveira" style="border-radius: 50%; width: 100px; height: 100px;">
+        <img src="rep\images\erick.jpeg" alt="Pedro Oliveira" style="border-radius: 50%; width: 100px; height: 100px;">
         <p>Pedro Oliveira</p>
     </div>
     <div style="text-align: center;">
-        <img src="link_para_a_foto_4" alt="Ana Costa" style="border-radius: 50%; width: 100px; height: 100px;">
+        <img src="rep\images\erick.jpeg" alt="Ana Costa" style="border-radius: 50%; width: 100px; height: 100px;">
         <p>Ana Costa</p>
     </div>
     <div style="text-align: center;">
-        <img src="link_para_a_foto_5" alt="Carlos Almeida" style="border-radius: 50%; width: 100px; height: 100px;">
+        <img src="rep\images\erick.jpeg" alt="Carlos Almeida" style="border-radius: 50%; width: 100px; height: 100px;">
         <p>Carlos Almeida</p>
     </div>
 </div>
