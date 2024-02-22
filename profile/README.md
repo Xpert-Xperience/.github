@@ -15,8 +15,6 @@ Buscamos ser líderes reconhecidos no cenário da tecnologia, estabelecendo padr
 - **Trabalho em Equipe:** Valorizamos a colaboração e reconhecemos a importância do trabalho em equipe para alcançar nossos objetivos.
 - **Inclusão:** Promovemos um ambiente inclusivo onde todas as pessoas são valorizadas e respeitadas.
 
-## 👥 Membros
-
 ## 📞 Contato
 Se você tiver alguma dúvida, sugestão ou feedback, não hesite em nos contatar:
 
