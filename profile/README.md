@@ -1,4 +1,4 @@
-![Imagem Logo](../images/logo_xxs.png)
+![Imagem Logo](https://github.com/Xpert-Xperience/.github/blob/main/images/logo_xxs.png)
 
 # Xpert Xperience Solutions 
 Bem-vindo ao repositório da Xpert Xperience Solutions! Somos uma software house dedicada a inovar e criar soluções tecnológicas excepcionais para enfrentar uma ampla variedade de desafios. Nosso compromisso com a qualidade e excelência nos permite estabelecer padrões elevados no cenário da tecnologia.
@@ -17,7 +17,7 @@ Buscamos ser líderes reconhecidos no cenário da tecnologia, estabelecendo padr
 - **Inclusão:** Promovemos um ambiente inclusivo onde todas as pessoas são valorizadas e respeitadas.
 
 ##  Equipe
-![Equipe Imagem](../images/EquipeImg.png)
+![Equipe Imagem](https://github.com/Xpert-Xperience/.github/blob/main/images/EquipeImg.png)
 ## 📞 Contato
 Se você tiver alguma dúvida, sugestão ou feedback, não hesite em nos contatar:
 - 📧 E-mail: [xpertxperiencesolutions@gmail.com](mailto:xpertxperiencesolutions@gmail.com)
